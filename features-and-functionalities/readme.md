@@ -1,0 +1,3 @@
+# ALX AIRBNB FEARTURES AND FUNCTIONALITIES
+
+![Airbnb ERD](./image.png)
