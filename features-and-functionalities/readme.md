@@ -1,3 +1,3 @@
-# ALX AIRBNB FEARTURES AND FUNCTIONALITIES
+# AirBnb Project Features and Functionalities
 
-![Airbnb ERD](./image.png)
+![Project features and functionalities](image.png)
